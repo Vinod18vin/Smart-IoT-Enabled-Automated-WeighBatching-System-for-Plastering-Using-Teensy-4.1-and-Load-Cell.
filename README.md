@@ -65,19 +65,19 @@ To develop a smart IoT-enabled automated weigh batching system for plastering ap
 
 ## System Architecture
 
-![Block Diagram](Simulation/Block_Diagram.png)
+![Block Diagram](Simulation/Block_Diagram.jpeg)
 
 ---
 
 ## Interfacing Diagram
 
-![Interfacing](Simulation/Interfacing_Diagram.png)
+![Interfacing](Simulation/Interfacing_Diagram.jpg)
 
 ---
 
-## Dashboard Monitoring System
+## System Design
 
-![Dashboard](Images/Dashboard_UI.png)
+![Interfacing](Simulation/System_Design.jpg)
 
 ---
 
