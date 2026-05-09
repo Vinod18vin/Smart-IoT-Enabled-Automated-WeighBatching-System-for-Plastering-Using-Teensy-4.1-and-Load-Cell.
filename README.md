@@ -71,7 +71,7 @@ To develop a smart IoT-enabled automated weigh batching system for plastering ap
 
 ## Interfacing Diagram
 
-![Interfacing](Simulation/Interfacing_Diagram.jpeg)
+![Interfacing](Simulation/Interfacing_Diagram.jpg)
 
 ---
 
